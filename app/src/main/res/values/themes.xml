@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.JsonMovieDB" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <color name="colorPrimary">#212d3b</color>
+        <color name="colorPrimaryDark">#161d27</color>
+        <color name="colorRating">#FBC02D</color>
+        <color name="colorAccent">#52a2f7</color>
+        <color name="colorDark">#414449</color>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
